@@ -52,12 +52,7 @@ Struktur folder `lib/` yang digunakan:
 
 ### 1. Dependencies
 
-Pastikan *package* `shared_preferences` sudah terinstal dalam `pubspec.yaml`:
-
-dependencies:
-  flutter:
-    sdk: flutter
-  shared_preferences: ^2.2.2 # Versi stabil terbaru
+Pastikan *package* `shared_preferences` sudah terinstal dalam `pubspec.yaml`
 
 ### 2. Langkah Eksekusi
 - Buka terminal di direktori proyek (h1d023038_tugas7).
