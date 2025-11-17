@@ -1,16 +1,12 @@
-# h1d023038_tugas7
+H1D023038_Tugas7: Aplikasi Flutter Sederhana
 
-A new Flutter project.
+Proyek ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile dengan fokus pada implementasi fitur autentikasi (Login), penyimpanan sesi (Local Storage), navigasi antar halaman (Routes), dan menu samping (Side Menu) dalam framework Flutter.
 
-## Getting Started
+Nama Mahasiswa: [Nama Anda]
+NIM: H1D023038
+Mata Kuliah: Pemrograman Mobile
 
-This project is a starting point for a Flutter application.
+🚀 Fitur Utama & Modifikasi Kreatif
 
-A few resources to get you started if this is your first Flutter project:
+Proyek ini telah dikembangkan dengan memodifikasi konsep dasar dari modul, khususnya pada aspek login dan struktur navigasi.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
