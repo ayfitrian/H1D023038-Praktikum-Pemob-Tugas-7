@@ -38,7 +38,11 @@ Aplikasi ini menggunakan skema login statis dengan dua peran (Role) yang berbeda
 
 Struktur folder `lib/` yang digunakan:
 
-lib/ ├── main.dart # Titik masuk aplikasi & konfigurasi tema. ├── login_screen.dart # Halaman Login (Mengandung logika penyimpanan sesi). ├── dashboard_screen.dart # Halaman utama setelah login (Menampilkan Username & Role). ├── profile_screen.dart # Halaman detail profil (Menampilkan data yang diambil dari Local Storage). └── side_navigation.dart # Side Menu (Drawer) yang berfungsi sebagai navigasi utama dan tombol Logout.
+lib/ ├── main.dart # Titik masuk aplikasi & konfigurasi tema. 
+    ├── login_screen.dart # Halaman Login (Mengandung logika penyimpanan sesi). 
+    ├── dashboard_screen.dart # Halaman utama setelah login (Menampilkan Username & Role). 
+    ├── profile_screen.dart # Halaman detail profil (Menampilkan data yang diambil dari Local Storage). 
+    └── side_navigation.dart # Side Menu (Drawer) yang berfungsi sebagai navigasi utama dan tombol Logout.
 
 
 ---
@@ -53,9 +57,9 @@ Pastikan *package* `shared_preferences` sudah terinstal dalam `pubspec.yaml`:
 dependencies:
   flutter:
     sdk: flutter
-  shared_preferences: ^2.2.2 # Versi stabil terbaru
+  shared_preferences: ^2.2.2 # Versi stabil terbaru```
 
-2. Langkah Eksekusi
+### 2. Langkah Eksekusi
 - Buka terminal di direktori proyek (h1d023038_tugas7).
 - Jalankan perintah untuk mengunduh dependencies:
 
