@@ -41,9 +41,9 @@ Struktur folder `lib/` yang digunakan:
    ###     lib/ 
    ###     ├── main.dart # Titik masuk aplikasi & konfigurasi tema. 
    ###     ├── login_screen.dart # Halaman Login (Mengandung logika penyimpanan sesi). 
-    ├── dashboard_screen.dart # Halaman utama setelah login (Menampilkan Username & Role). 
-    ├── profile_screen.dart # Halaman detail profil (Menampilkan data yang diambil dari Local Storage). 
-    └── side_navigation.dart # Side Menu (Drawer) yang berfungsi sebagai navigasi utama dan tombol Logout.
+   ###     ├── dashboard_screen.dart # Halaman utama setelah login (Menampilkan Username & Role). 
+   ###     ├── profile_screen.dart # Halaman detail profil (Menampilkan data yang diambil dari Local Storage). 
+   ###     └── side_navigation.dart # Side Menu (Drawer) yang berfungsi sebagai navigasi utama dan tombol Logout.
 
 
 ---
